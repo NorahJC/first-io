@@ -1,0 +1,45 @@
+/* Selector{
+    Property: value;
+} */
+*{
+    text-align: right;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1560406144-1fee5e401b0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1544&q=80);
+    background-size: cover;
+}
+h3 h4 {
+    color: black;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+    cursor: pointer;
+}
+h2 p{
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+    cursor: pointer;
+}
+p{
+    color: green;
+}
+ 
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext{
+     border: 5px dashed green;
+}
+
+.active{
+    color: red;
+}
+
+#div1{
+    background: rgba(0, 0, 255, 0.2)
+}
+#div2{
+    background: rgba(255, 0, 0, 0.2)
+}
